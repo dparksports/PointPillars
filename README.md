@@ -1,4 +1,4 @@
-#Instruction
+# Instruction
 
 - You can use my bash history as shown below.  
 - You can see that it takes about 1700 steps to get there.
