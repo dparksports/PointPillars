@@ -1,5 +1,6 @@
-#Instruction
-- You can use my bash history as shown below.  You can see that it takes about 1700 steps to get there.
+##Instruction
+- You can use my bash history as shown below.  
+- You can see that it takes about 1700 steps to get there.
 - I will come back and edit them for a better exploration.
 - These steps are to setup the KITTI dataset or the NUScene dataset, train and evaluate a PointPillar network from scratch.
 - Based on Ubuntu 16 with CUDA 10.1 on GTX 1060 Mobile.
