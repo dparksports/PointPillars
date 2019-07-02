@@ -1,6 +1,5 @@
 #Instruction
-
-echo "# PointPillars" >> README.md
+- a setup instruction 
 
 ```Bash
     7  sudo apt-key adv --fetch-keys http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1604/x86_64/7fa2af80.pub
