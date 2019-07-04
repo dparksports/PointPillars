@@ -3,7 +3,7 @@
 
 # Performance
 - Based on Ubuntu 16 with CUDA 10.1 on GTX 1060 Mobile.
-- Training takes about 4 hours per epoch.
+- Training takes about two hours an epoch
 
 # Instruction
 
